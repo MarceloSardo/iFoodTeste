@@ -1,0 +1,137 @@
+body{
+    font-family: Roboto;
+}
+
+h1{
+    font-size: 26px;
+    font-weight: bold;
+}
+
+button{
+    text-align: left;
+    font-weight: bolder;
+    color: white;
+    width: 125px; height: 75px;
+    border-radius: 5px;
+    border: none;
+}
+
+form #nc{
+    font-family: roboto;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 5px;
+    border: none;
+    width: 300px; height: 60px;
+    color: white;
+    background-color: #EC1820;
+    font-size: 17px;
+}
+
+form #c1{
+    font-family: roboto;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 5px;
+    border: none;
+    width: 300px; height: 60px;
+    font-size: 16px;
+}
+
+.bt1{
+    background-image: url(../iFood/img/mercado.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.bt2{
+    background-image: url(../iFood/img/promo.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.bt3{
+    background-image: url(../iFood/img/farmacia.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.bt4{
+    background-image: url(../iFood/img/pet.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.bt5{
+    background-image: url(../iFood/img/pizza.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.bt6{
+    background-image: url(../iFood/img/lanches.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.bt7{
+    background-image: url(../iFood/img/japonesa.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.bt8{
+    background-image: url(../iFood/img/brasileira.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.bt9{
+    background-image: url(../iFood/img/chinesa.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.bt10{
+    background-image: url(../iFood/img/saudavel.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.bt11{
+    background-image: url(../iFood/img/arabe.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.bt12{
+    background-image: url(../iFood/img/bebidas.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.bt13{
+    background-image: url(../iFood/img/sorvete.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.bt14{
+    background-image: url(../iFood/img/rapida.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
